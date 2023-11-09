@@ -37,6 +37,9 @@ I'm Zic a DBA and student from Brazil!
   <a href='' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Oracle%20Database&style=for-the-badge&logo=oracle&logoColor=white&color=ff0000' />
   </a>
+  <a href='' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Docker&style=for-the-badge&logo=docker&logoColor=white&color=009fff' />
+  </a>
 </div>
 
 ##
