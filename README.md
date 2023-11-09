@@ -2,13 +2,6 @@
 Welcome to my profile.
 I'm Zic a DBA and student from Brazil!
 
-<div align='center'>
-  <img src='https://img.shields.io/static/v1?label=OS&message=Linux&color=blue&style=for-the-badge&logo=linux' />
-  <img src='https://img.shields.io/static/v1?label=Editor&message=VSCodium&color=blue&style=for-the-badge&logo=visual-studio-code' />
-  <img src='https://img.shields.io/static/v1?label=Editor&message=NeoVim&color=green&style=for-the-badge&logo=vim' />
-  
-</div>
-
 #### What I know & have worked with.
 <div align='center'>
   <a href='' target='_blank' rel='noopener' rel='noreferrer'>
