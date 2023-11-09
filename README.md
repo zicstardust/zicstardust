@@ -4,8 +4,6 @@ I'm Zic a DBA and student from Brazil!
 
 <div align='center'>
   <img src='https://img.shields.io/static/v1?label=OS&message=Linux&color=blue&style=for-the-badge&logo=linux' />
-  <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white' />
-  <img src='https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white' />
   <img src='https://img.shields.io/static/v1?label=Editor&message=VSCodium&color=blue&style=for-the-badge&logo=visual-studio-code' />
   <img src='https://img.shields.io/static/v1?label=Editor&message=NeoVim&color=green&style=for-the-badge&logo=vim' />
   
@@ -35,7 +33,7 @@ I'm Zic a DBA and student from Brazil!
     <img src='https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white' />
   </a>
   <a href='' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Oracle%20Database&style=for-the-badge&logo=oracle&logoColor=white&color=ff0000' />
+    <img src='https://img.shields.io/static/v1?label=&message=SQL%20Database&style=for-the-badge&logo=mariadb&logoColor=white&color=0000ff' />
   </a>
   <a href='' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Docker&style=for-the-badge&logo=docker&logoColor=white&color=009fff' />
