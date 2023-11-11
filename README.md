@@ -1,6 +1,6 @@
 ## Hello! 👋, nice to meet you :)
 Welcome to my profile.
-I'm Zic a DBA and student from Brazil!
+I'm Fernando, student from Brazil!
 
 #### What I know & have worked with.
 <div align='center'>
