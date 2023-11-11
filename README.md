@@ -5,12 +5,6 @@ I'm Fernando, student from Brazil!
 #### What I know & have worked with.
 <div align='center'>
   <a href='' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
-  </a>
-  <a href='' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
-  </a>
-  <a href='' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' />
   </a>
   <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
