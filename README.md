@@ -25,8 +25,11 @@ I'm Fernando, student from Brazil!
   <a href='' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=SQL%20Database&style=for-the-badge&logo=mariadb&logoColor=white&color=0000ff' />
   </a>
-  <a href='' target='_blank' rel='noopener' rel='noreferrer'>
+  <a href='https://www.docker.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Docker&style=for-the-badge&logo=docker&logoColor=white&color=009fff' />
+  </a>
+  <a href='https://nginx.org/en/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=nginx&style=for-the-badge&logo=nginx&logoColor=white&color=008000' />
   </a>
 </div>
 
