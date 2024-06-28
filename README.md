@@ -13,6 +13,9 @@ I'm Fernando, student from Brazil!
   <a href='https://www.gnu.org/software/bash/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Shell Script&logoColor=white&color=grey&style=for-the-badge&logo=gnu-bash&color=4eaa25' />
   </a>
+  <a href='https://learn.microsoft.com/en-us/powershell/scripting/overview' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Powershell&style=for-the-badge&logo=powershell&logoColor=white&color=0000ff' />
+  </a>
   <a>
     <img src='https://img.shields.io/static/v1?label=&message=Linux&style=for-the-badge&logo=linux&logoColor=white&color=ffa500' />
   </a>
