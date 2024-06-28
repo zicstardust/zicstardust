@@ -35,7 +35,6 @@ I'm Fernando, student from Brazil!
 #### Contact 
 <div> 
    <a href = "mailto:contact@zicstardust.com"><img src="https://img.shields.io/badge/Email-DC4D3F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href = "https://matrix.to/#/@zicstardust:matrix.org"><img src="https://img.shields.io/badge/Matrix.org-4BCEA9?style=for-the-badge&logo=matrix&logoColor=white" target="_blank"></a>
 </div>
 
 #### Social
