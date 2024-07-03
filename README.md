@@ -5,7 +5,7 @@ I'm Fernando, student from Brazil!
 #### What I know & have worked with.
 <div align='center'>
   <a href='' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' />
+    <img src='https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logoColor=yellow' />
   </a>
   <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue' />
