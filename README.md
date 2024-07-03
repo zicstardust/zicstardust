@@ -8,7 +8,7 @@ I'm Fernando, student from Brazil!
     <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' />
   </a>
   <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
+    <img src='https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue' />
   </a>
   <a href='https://www.gnu.org/software/bash/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Shell Script&logoColor=white&color=grey&style=for-the-badge&logo=gnu-bash&color=4eaa25' />
