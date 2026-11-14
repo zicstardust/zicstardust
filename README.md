@@ -24,4 +24,5 @@ Welcome to my profile.
 #### Social
 <div> 
   <a href = "https://open.spotify.com/user/89csurjia225cnnx7w88u89rj"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href = "https://www.last.fm/user/zicstardust"><img src="https://img.shields.io/badge/lastfm-d1170e?&style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a>
 </div>
