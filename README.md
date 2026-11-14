@@ -21,6 +21,8 @@ Welcome to my profile.
    <a href = "mailto:contact@zicstardust.com"><img src="https://img.shields.io/badge/Email-DC4D3F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
 #### Social
 <div> 
   <a href = "https://open.spotify.com/user/89csurjia225cnnx7w88u89rj"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
